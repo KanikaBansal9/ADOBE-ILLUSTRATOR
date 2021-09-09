@@ -1,2 +1,2 @@
 # ADOBE-ILLUSTRATOR
-vector potrait 2
+vector portrait 2
